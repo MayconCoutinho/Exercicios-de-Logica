@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/60453269/217925292-4b30d328-ab45-4e06-b7be-cc662391d646.png" alt="Logo" width="200" height="150" />
+  <img src="https://user-images.githubusercontent.com/60453269/216774775-c25bc414-a98a-4618-93b9-78311b080c4f.png" alt="Logo" width="200" height="150" />
 </p>
-
 
 <h1 align="center"> Exercicios de Logica </h1>
 
